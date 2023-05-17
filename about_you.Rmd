@@ -17,7 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  I attended Quartz Hill High School and graduated in 2020. Since it was during the outbreak of the pandemic, the graduation was held by having cars drop off their kids at a podium to receive their diplomas, take quick photos, and then proceed to leave. Math is a preferred subject, though I can debate that it is not an easier subject because one misstep in a problem can be the equivalent to finding a missing apostrophe in code, English is an easier subject since it is a subject of interpretation and finding meanings to works. Overall I did much better in math because of that reason, especially having had a teacher that was willing to point out where the misstep in the problem occurred so the student didn't have to spend more time finding that missing apostrophe from code. The subject in high school I felt o do personally best in is chemistry. Though cemistry can appear complicated, dissecting each problem makes one realize that the periodic table in most cases is only a reference point for problems in chemistry along with knowing how to convert units, the rest of chemistry problem-solving is simple math.  
+I attended Quartz Hill High School and graduated in 2020. Since it was during the outbreak of the pandemic, the graduation was held by having cars drop off their kids at a podium to receive their diplomas, take quick photos, and then proceed to leave. Math is a preferred subject, though I can debate that it is not an easier subject because one misstep in a problem can be the equivalent to finding a missing apostrophe in code, English is an easier subject since it is a subject of interpretation and finding meanings to works. Overall I did much better in math because of that reason, especially having had a teacher that was willing to point out where the misstep in the problem occurred so the student didn't have to spend more time finding that missing apostrophe from code. The subject in high school I felt o do personally best in is chemistry. Though cemistry can appear complicated, dissecting each problem makes one realize that the periodic table in most cases is only a reference point for problems in chemistry along with knowing how to convert units, the rest of chemistry problem-solving is simple math.
 
      
 
@@ -26,15 +26,13 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  Currently, I run a MacBook at home, though I have completely forgot what version MacBook it is, it s a newer one. On the scale of computer knowledge, I would rate myself a 7 because though I can easily navigate my way around the web and even know a little bit of code, I do not know specific and intricate parts of a computer as one might know of if they built a pc. The Interet connection where I'm from is fairly stable and mostly consistent from the area I work on assignments merely because of the router location compared to my personal work area. 
-  
+
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  By classmates and instructors, I'd prefer to be called "Jonathan" as it is my birth name. Though buddies of mine have nicknames for me, it always begins as "Jonathan". 
-   
+
  
 
 
@@ -44,8 +42,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  In life, I want to achieve a certain peek of what is possible and discover human capabilities in reguards to one's health. The college subject that gives me the greatest interest are things related to or having to mainly do with Biology. s a biology major, so mar my courses taken in Biology have linked a great success thus far in my college career. For now, the certificate I am trying to acheive in 3 or so years from now is my Bachelors in Biology from a great school with top notch Biology programs such as UC Irvine. Eventually, my Bachelors will lead to an additional 4 years of Pharmacy school, where at the end of those four years, I will have a PharmD to be able to practice Pharmacy. 
-   
+
  
 
 
@@ -55,8 +52,7 @@ What do you want to achieve in life?  What college subject do you think would be
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-  Currently, I have not gone anywhere outside of the United States, though I have been out of state. Other states I have traveled to include Nevada, New York, Washington D.C., New Jersey, and Pennsylvania. So far, there are no plans of going out of country, but I do intend on stepping out of America at some point to explore the knits of different cultures. I have never had any ambitions of going to the military, nor have any family members. Though if I were to have to choose which branch to be drafted in, I would elect to be drafted in the Navy SEALS because it is one of the toughest physical branches and requires lots of grit in training, and in combat play one of the highest leveled roles with water being over 70% of the Earth.  
-   
+
   
 
 
@@ -68,4 +64,3 @@ What grade do you need to attain in stats to not upset your future plans, What i
  
 
 ### my answer     
-  I am taking Math 116 not only because my prerequisites require it for transferring to a great school to receive my Bachelors in Science, but because viewing the world from a statistical standpoint reinforces analytical thought process which is especially important for collecting data on any given topic or subject. I was not aware that math 115 would only be a general requirement, I have much higher hopes towards math 116. 
